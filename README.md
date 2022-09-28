@@ -14,11 +14,11 @@
 ## Install
 
 ```bash
-npm install --save nepali-datepicker-reactjs
+npm install @uttsap/nepali-datepicker-react@1.0.0
 
 or,
 
-yarn add nepali-datepicker-reactjs
+npm install @uttsap/nepali-datepicker-react@1.0.0
 ```
 
 ## Usage
